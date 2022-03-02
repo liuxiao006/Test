@@ -1,5 +1,13 @@
 i love java
+333333333333333333
+444444444444444444
+i love java
 i love c 
 kkkkk
+<<<<<<< .mine
 kkkk
 kkkkkkkk
+=======
+
+
+>>>>>>> .theirs
