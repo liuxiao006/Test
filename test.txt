@@ -3,11 +3,6 @@ i love java
 444444444444444444
 i love java
 i love c 
-kkkkk
-<<<<<<< .mine
+i love cdefghk55555 
 kkkk
 kkkkkkkk
-=======
-
-
->>>>>>> .theirs
